@@ -1,0 +1,23 @@
+# General configuration for the application
+[app]
+name = "sample-registration"
+environment = "development" # "development" or "production"
+
+[api]
+version = 1
+root =  "/api"
+host = "localhost"
+port =  3002
+
+[oauth]
+secret = ""    
+
+[database]
+# Database configuration
+    [database.postgresql]
+    baseurl = "localhost"
+    protocol = "http://"
+    port = "5432"
+    database = ""
+    user = ""
+    password = ""
