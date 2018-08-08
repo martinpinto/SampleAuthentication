@@ -1,5 +1,7 @@
 # Sample Registration and Login 
 
+![Screen1](https://github.com/martinpinto/SampleAuthentication/blob/master/screen1.png)
+
 Welcome to this sample registration and login repository!
 
 ## How is this repository structured?
